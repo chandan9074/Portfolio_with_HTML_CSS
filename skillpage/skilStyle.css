@@ -1,0 +1,234 @@
+.skill_align {
+  width: 100%;
+  min-height: 470vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(24, 22, 22);
+}
+
+.skill_head {
+  margin-top: 10vh;
+  color: aliceblue;
+  font-size: 5vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sk_t {
+  color: aliceblue;
+  font-size: 5vh;
+  margin: 0;
+}
+
+.sk_underline {
+  border-bottom: 0.4vh solid salmon;
+  width: 7vh;
+  margin-left: 2.2vh;
+}
+
+.s_img {
+  width: 25vh;
+  height: 25vh;
+}
+
+.s_dis {
+  width: 50vh;
+  margin-left: 9vh;
+  font-size: 2.5vh;
+  color: aliceblue;
+}
+
+.py_card {
+  margin-left: auto;
+  margin-right: 20vh;
+  display: flex;
+  margin-top: 10vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.c_card {
+  margin-right: auto;
+  margin-left: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.cp_card {
+  margin-left: auto;
+  margin-right: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.html_card {
+  margin-right: auto;
+  margin-left: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.css_card {
+  margin-left: auto;
+  margin-right: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.js_card {
+  margin-right: auto;
+  margin-left: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.rjs_card {
+  margin-left: auto;
+  margin-right: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.dj_card {
+  margin-right: auto;
+  margin-left: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.ps_card {
+  margin-left: auto;
+  margin-right: 20vh;
+  display: flex;
+  margin-top: 15vh;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 5vh 8vh;
+  border-radius: 2vh;
+  box-shadow: 0 0 3vh 3vh rgb(29, 29, 29);
+}
+
+.project_align {
+  width: 100%;
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  background-color: black;
+}
+
+.project_cards {
+  display: flex;
+}
+
+.p_t {
+  color: aliceblue;
+  margin: 0;
+  font-size: 2.7vh;
+}
+
+.pro_dis {
+  width: 25vh;
+  color: aliceblue;
+  font-size: 2.3vh;
+}
+
+.p_h_t {
+  color: aliceblue;
+  font-size: 5vh;
+  margin-top: 4vh;
+}
+
+.pro_img {
+  width: 3vh;
+  height: 3vh;
+  /* margin: 0vh auto; */
+  margin-top: 2vh;
+}
+
+.pos {
+  margin-left: 45%;
+  /* margin-top: 2vh; */
+}
+
+.p_h_u {
+  border-bottom: 0.3vh solid salmon;
+  width: 20vh;
+  margin-left: 3.6vh;
+  margin-bottom: 10vh;
+}
+
+.pro_c {
+  margin-right: 4vh;
+  background-color: rgb(92, 86, 86);
+  padding: 5vh 4vh;
+  border-radius: 1.5vh;
+  box-shadow: 0 0 3vh 1.5vh rgb(48, 48, 48);
+}
+
+.pro_underline {
+  border-bottom: 0.3vh solid rgb(3, 78, 53);
+  width: 15vh;
+  margin-bottom: 2vh;
+}
+
+
+.hack:hover {
+  box-shadow: none;
+}
+
+.vote:hover {
+  box-shadow: none;
+}
+
+.link:hover {
+  box-shadow: none;
+}
